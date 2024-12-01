@@ -47,6 +47,7 @@ Note that this does not mean that these tracks are in public domain either.
 In addition to this mod I highly suggest the following mods which are not included since they don't
 include sounds:
 
+- [Unciv-Vanilla-Music-Pack](https://github.com/NoviceCoder2000/Unciv-Vanilla-Music-Pack)
 - [Civilization-II-Music](https://github.com/twilightrazor/Civilization-II-Music)
 - [Civ-IV-Music](https://github.com/RobLoach/Civ-IV-Music)
 - [Higher-Quality-City-Ambience-Sounds](https://github.com/alexban01/Higher-Quality-City-Ambience-Sounds)
