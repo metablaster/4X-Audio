@@ -38,7 +38,7 @@ Note that this does not mean that these tracks are in public domain either.
 ## How to use
 
 - Search for and download `4X-Audio` mod using `Unciv`
-- Enable "Permanent audiovisual mod" checkbox
+- Enable `Permanent audiovisual mod` checkbox
 
 ## Other suggested music mods
 
