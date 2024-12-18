@@ -5,11 +5,11 @@
 
 [Unciv](https://github.com/yairm210/Unciv) Audio mod
 
-For now music tracks only, no sound effects.
+Music tracks only, no sound effects.
 
 ## Which music tracks are included
 
-At the moment the following music tracks are included
+At the moment the following music tracks are included:
 
 - Civilization III music
 - Victoria II Music
@@ -22,15 +22,13 @@ The following mods already include same music:
 - [Victoria-II-Music](https://github.com/Caballero-Arepa/Victoria-II-Music)
 
 However these mods also include sound effects, overlaping each other, the aim of this mod however is
-to provide music only for now and no sound effects of any kind.
+to provide music only and no sound effects of any kind and to keep vanilla effects.
 
 ## Roadmap
 
 I plan to add more music tracks in the future from other 4X games, so that in entire gameplay
 no same music plays twice, with the goal to never get bored listening to same thing over
 and over again like a broken record.
-
-Cherry picked sounds effects since many duplicates exist out there.
 
 ## License
 
